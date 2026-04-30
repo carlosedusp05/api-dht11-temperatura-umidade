@@ -1,6 +1,24 @@
 {
   "dependencies": {
-    "express": "^5.2.1",
-    "started": "node.js"
-  }
+    "express": "^5.2.1"
+  },
+  "name": "api_arduino-dht",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosedusp05/api-dht11-temperatura-umidade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosedusp05/api-dht11-temperatura-umidade/issues"
+  },
+  "homepage": "https://github.com/carlosedusp05/api-dht11-temperatura-umidade#readme",
+  "description": ""
 }
